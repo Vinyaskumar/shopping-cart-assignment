@@ -7,15 +7,15 @@ API Integration: Price calculations are integrated with a Price API.<br/>
 Unit Tests: Includes basic unit tests for cart functionality.<br/>
 Basic Styling: The project includes simple CSS styling for better user interaction.<br/>
 
-Prerequisites<br/>
+**Prerequisites**<br/>
 Before running the project, ensure you have the following installed:
 
 Node.js<br/>
 npm
 
-How to Run
+**How to Run**
 
 1)Start the server:<br/>
-    node server.js
+    **node server.js**
 
 2)Open index.html in your browser.
