@@ -1,6 +1,6 @@
 # shopping-cart-assignment
 
-Features
+Features< br / >
 Add/Remove Products: Users can add and remove products from the shopping cart.
 Calculate Total: The total price of the cart is calculated, including taxes.
 API Integration: Price calculations are integrated with a Price API.
@@ -15,7 +15,7 @@ npm
 
 How to Run
 
-1)Start the server:
+1)Start the server:< br / >
     node server.js
 
 2)Open index.html in your browser.
