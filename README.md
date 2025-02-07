@@ -13,7 +13,6 @@ Before running the project, ensure you have the following installed:
 Node.js
 npm
 
-Shopping Cart Assignment
 How to Run
 
 1)Start the server:
