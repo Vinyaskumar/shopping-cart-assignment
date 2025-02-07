@@ -16,6 +16,6 @@ npm
 How to Run
 
 1)Start the server:
-node server.js
+    node server.js
 
 2)Open index.html in your browser.
